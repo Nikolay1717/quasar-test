@@ -5,6 +5,7 @@
   "productName": "Quasar App",
   "author": "Nikolay1717 <kuzn1717@gmail.com>",
   "private": true,
+  "homepage": "https://quasar-test-iota.vercel.app",
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
     "format": "prettier --write \"**/*.{js,vue,css,html,md,json}\" --ignore-path .gitignore",
